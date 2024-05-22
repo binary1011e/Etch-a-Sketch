@@ -1,0 +1,1 @@
+Etch-a-Sketch project on The Odin Project. Whenever I hover over a square the square darkens.
